@@ -1,8 +1,6 @@
-**ATM**
+# ATM
 
-A Python-based simulator for essential banking actions including deposits, withdrawals, and balance inquiries. The program comes in two versions: a basic version and a plus version.
-
-## Features
+A Python-based simulator for essential banking actions including deposits, withdrawals, and balance inquiries. The program comes in two versions: a basic version, a plus version, and an oriented-objects version.
 
 ### Basic Version
 
@@ -16,5 +14,9 @@ A Python-based simulator for essential banking actions including deposits, withd
 - Create new user accounts
 - Create new bank accounts for users
 - List all existing bank accounts
+
+### OOP Version
+- All features from the Plus Version
+- Implemented using object-oriented programming principles
 
 This project was created as a learning exercise for the Digital Innovation One Python Developer challenge.
